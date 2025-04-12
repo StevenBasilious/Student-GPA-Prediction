@@ -1,5 +1,3 @@
-# Student-GPA-Prediction
-
 # Student GPA Prediction
 
 ## Project Overview
